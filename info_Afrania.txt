@@ -1,0 +1,7 @@
+Nombre: Afrania Sarahi Savala Altamirano.
+Carrera: Ingeniería en Sistemas.
+Edad: 18 años.
+Fecha: 05/04/26.
+Hobby: Ver caricaturas.
+Meta Profesional: Ser programadora profesional y desarrollar apps.
+
